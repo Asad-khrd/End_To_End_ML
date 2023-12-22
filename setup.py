@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 from typing import List
 
-name="Asad"
+name="Qasim"
 
 
 HYPHEN_E_DOT='-e .'

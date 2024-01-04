@@ -1,8 +1,6 @@
 from setuptools import find_packages, setup
 from typing import List
 
-name="Asad"
-
 HYPHEN_E_DOT='-e .'
 def get_requirements(file_path:str)->List[str]:
     '''
